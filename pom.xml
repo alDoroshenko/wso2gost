@@ -15,11 +15,11 @@
     </parent>
 
     <dependencies>
-<!--        <dependency>-->
-<!--            <groupId>org.wso2.carbon.identity.inbound.auth.oauth2</groupId>-->
-<!--            <artifactId>org.wso2.carbon.identity.oauth</artifactId>-->
-<!--            <version>6.13.27</version>-->
-<!--        </dependency>-->
+        <dependency>
+            <groupId>org.wso2.carbon.identity.inbound.auth.oauth2</groupId>
+            <artifactId>org.wso2.carbon.identity.oauth</artifactId>
+            <version>6.13.27</version>
+        </dependency>
 
         <dependency>
             <groupId>org.wso2.carbon.apimgt</groupId>
